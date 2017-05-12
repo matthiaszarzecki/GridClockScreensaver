@@ -11,6 +11,7 @@
 		3A40068318B53129005F43A6 /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3A40068218B53129005F43A6 /* WebKit.framework */; };
 		3A40068518B53226005F43A6 /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = 3A40068418B53226005F43A6 /* index.html */; };
 		77996CD91C94B825006B0FF7 /* GridClock.m in Sources */ = {isa = PBXBuildFile; fileRef = 77996CD81C94B825006B0FF7 /* GridClock.m */; };
+		CCCB2AE61EC5EBF300656010 /* Comfortaa-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CCCB2AE51EC5EBF300656010 /* Comfortaa-Regular.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		3A95A94B18EA12D30036779C /* GridClock.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GridClock.h; sourceTree = SOURCE_ROOT; };
 		77996CD61C94B804006B0FF7 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = SOURCE_ROOT; };
 		77996CD81C94B825006B0FF7 /* GridClock.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GridClock.m; sourceTree = SOURCE_ROOT; };
+		CCCB2AE51EC5EBF300656010 /* Comfortaa-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Comfortaa-Regular.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 		3A40067318B53113005F43A6 /* Source */ = {
 			isa = PBXGroup;
 			children = (
+				CCCB2AE51EC5EBF300656010 /* Comfortaa-Regular.ttf */,
 				3A95A94B18EA12D30036779C /* GridClock.h */,
 				77996CD81C94B825006B0FF7 /* GridClock.m */,
 				3A40068418B53226005F43A6 /* index.html */,
@@ -141,6 +144,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CCCB2AE61EC5EBF300656010 /* Comfortaa-Regular.ttf in Resources */,
 				3A40068518B53226005F43A6 /* index.html in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -253,7 +257,7 @@
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 4699R6ELY7;
+				DEVELOPMENT_TEAM = QDUTEX33CU;
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = "$(HOME)/Library/Screen Savers";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.chrstphrknwtn.${PRODUCT_NAME:rfc1034identifier}";
@@ -267,7 +271,7 @@
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 4699R6ELY7;
+				DEVELOPMENT_TEAM = QDUTEX33CU;
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = "$(HOME)/Library/Screen Savers";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.chrstphrknwtn.${PRODUCT_NAME:rfc1034identifier}";
