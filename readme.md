@@ -9,4 +9,7 @@ Forked from: https://github.com/chrstphrknwtn/grid-clock-screensaver
 ![Grid Clock Screenshot](GridClock.png)
 
 ## Install
-Download [`Grid Clock.saver`](https://github.com/chrstphrknwtn/grid-clock/releases/download/0.0.2/Grid.Clock.saver.zip)
+
+Download repository and run [`RedGridClock.saver`](https://github.com/matthiaszarzecki/RedGridClockScreensaver/tree/master/RedGridClock.saver)
+ on a mac.
+ 
